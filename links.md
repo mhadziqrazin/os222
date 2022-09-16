@@ -8,8 +8,13 @@ Links that helped me during OS course:
 I have some issue with login with SSH and this link helped me to solved it
 2. [AWK](https://youtu.be/9YOZmI-zWok)<br>
 I learned couple things about AWK with this video
-3. [REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM+)<br>
-I learned couple things about REGEX with this video
-4. [Learning Scripting](https://linuxcommand.org/lc3_wss0010.php)<br>
-This website helped me to learn some linux command
 
+# Week 2
+1. [REGEX](https://www.youtube.com/watch?v=bgBWp9EIlMM+)<br>
+I learned couple things about REGEX with this video
+2. [Learning Scripting](https://linuxcommand.org/lc3_wss0010.php)<br>
+This website helped me to learn some linux command
+3. [Learning Editing File via SSH](https://help.dreamhost.com/hc/en-us/articles/115006413028-Creating-and-editing-a-file-via-SSH)<br>
+This website helped me to edit myscript.sh
+4. [Learning Deleting File via SSH](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/)<br>
+This website helped me when i accidently script downloading in TXT folder
