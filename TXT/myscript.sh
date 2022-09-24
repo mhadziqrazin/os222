@@ -1,6 +1,5 @@
 #!/bin/bash
-# Copyright (C) 2020-2022 Cicak Bin Kadal
-# This free script is distributed in the hope that it will be 
+# Copyright (C) 2020-2022 Cicak Bin Kadal# This free script is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
@@ -15,7 +14,7 @@
 REC2="4E22AE65C1C4FC7C"
 # ####################### ####### #### ####
 # REC1: public key
-REC1="4E22AE65C1C4FC7C"
+REC1="63FB12B215403B20"
 # WEEKURL="http://localhost:4000/WEEK/WEEK.txt"
 WEEKURL="https://os.vlsm.org/WEEK/WEEK.txt"
 FILES="my*.asc my*.txt my*.sh"
