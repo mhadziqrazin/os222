@@ -25,4 +25,12 @@ ZCZC W03  30 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W03  30 L01 SCELE related
 ZCZC W03  20 L06 Browsing/GSGS related
 ZCZC W03  10 L64 Helping friends OS related problem
-
+ZCZC W04 200 L02 Zoom meetings related
+ZCZC W04 200 L09 Weekly Assignments W04
+ZCZC W04 120 L88 Workout
+ZCZC W04  30 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W04  30 L03 GitHub and git related, including commit, push, pull
+ZCZC W04  20 L06 Browsing/GSGS related
+ZCZC W04  30 L01 SCELE related
+ZCZC W04  10 L64 Helping friends OS related problem
+ZCZC W04  30 L05 Quiz and pop quiz related including studying
