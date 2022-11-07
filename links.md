@@ -43,3 +43,7 @@ Website to learn about page replacement using optimal algorithm
 I continue learn material from class about little endian and big endian from this website
 3. [Compile C on Linux](https://www.javatpoint.com/linux-make-command)<br>
 I learned more bout compiling and running C file from Linux from this website
+
+# Week 6
+1. [Learn Fork Functions](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+2. [Example Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
