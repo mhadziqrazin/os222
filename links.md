@@ -46,4 +46,6 @@ I learned more bout compiling and running C file from Linux from this website
 
 # Week 6
 1. [Learn Fork Functions](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
-2. [Example Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Learn about fork functions
+3. [Example Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Some example of fork in C and how to use it
