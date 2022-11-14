@@ -49,3 +49,9 @@ I learned more bout compiling and running C file from Linux from this website
 Learn about fork functions
 3. [Example Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Some example of fork in C and how to use it
+
+# Week 7
+1. [SCP local to remote vice versa](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+I learned to copy file from local to remote and vice versa
+2. [Semaphore in Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+This website explains about semaphore utilization in synchronization process
