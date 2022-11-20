@@ -55,3 +55,10 @@ Some example of fork in C and how to use it
 I learned to copy file from local to remote and vice versa
 2. [Semaphore in Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 This website explains about semaphore utilization in synchronization process
+
+# Week 8
+1. [Differences Between Troughput Turnaround and Response Time](https://benchpartner.com/q/what-is-throughput-turnaround-time-waiting-time-and-response-time)<br>
+This website helps me to know more about each thing
+2. [Shortest Job First](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)<br>
+I learned more about SJF from this website
+
