@@ -66,3 +66,10 @@ ZCZC W08  30 L01 SCELE related
 ZCZC W08  30 L05 Quiz and pop quiz related including studying
 ZCZC W08  10 L03 GitHub and git related, including commit, push, pull
 ZCZC W08  60 L64 Helping a friend (OS related problem)
+ZCZC W09 200 L02 Attended class
+ZCZC W09 320 L09 Weekly Assignments W09
+ZCZC W09  30 L01 SCELE related
+ZCZC W09  30 L05 Quiz and pop quiz related including studying
+ZCZC W09  60 L64 Helping a friend (OS related problem)
+ZCZC W09  20 L03 GitHub and git related, including commit, push, pull
+ZCZC W09  60 L06 Browsing/GSGS related

@@ -62,3 +62,9 @@ This website helps me to know more about each thing
 2. [Shortest Job First](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)<br>
 I learned more about SJF from this website
 
+# Week 9
+1. [Disk Scheduling](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+This website explains about disk scheduling and examples of it
+2. [LFS Chapter 6-7](https://www.youtube.com/watch?v=bKtbMaNB-VY&list=PLyc5xVO2uDsCCsisiiWrZJgnHmK18Mr7j&index=9)<br>
+This playlist really helps me doing my Week09 assignments
+
