@@ -68,3 +68,8 @@ This website explains about disk scheduling and examples of it
 2. [LFS Chapter 6-7](https://www.youtube.com/watch?v=bKtbMaNB-VY&list=PLyc5xVO2uDsCCsisiiWrZJgnHmK18Mr7j&index=9)<br>
 This playlist really helps me doing my Week09 assignments
 
+# Week 10
+1. [File Handling in C](https://www.geeksforgeeks.org/basics-file-handling-c/)<br>
+This website explains about basic file handling in C with examples code
+2. [File Descriptor](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)<br>
+This website gives excample in detail about file descriptor in C
